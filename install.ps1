@@ -1,1 +1,55 @@
-IyBjb250ZXh0LWluc2lnaHQg5a6J6KOFL+abtOaWsO+8iFdpbmRvd3MgUG93ZXJTaGVsbO+8iQojICAgaWV4IChpd3IgLVVzZUJhc2ljUGFyc2luZyBodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vc2FxaW5naHVpLWh1YWlhbi9jb250ZXh0LWluc2lnaHQvbWFpbi9pbnN0YWxsLnBzMSkKIyAgIOWkp+mZhue9kee7nCByYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tIOW4uOiiq+mHjee9ru+8jOWPr+WFiOiuvumVnOWDj++8mgojICAgJGVudjpHSF9QUk9YWSA9ICJodHRwczovL2doLXByb3h5LmNvbS8iOyBpZXggKGl3ciAtVXNlQmFzaWNQYXJzaW5nIC4uLikKJEVycm9yQWN0aW9uUHJlZmVyZW5jZSA9ICJTdG9wIgokcmVwbyA9IGlmICgkZW52OlJFUE8pIHsgJGVudjpSRVBPIH0gZWxzZSB7ICJzYXFpbmdodWktaHVhaWFuL2NvbnRleHQtaW5zaWdodCIgfQokYnJhbmNoID0gaWYgKCRlbnY6QlJBTkNIKSB7ICRlbnY6QlJBTkNIIH0gZWxzZSB7ICJtYWluIiB9CiRoZXJtZXNIb21lID0gaWYgKCRlbnY6SEVSTUVTX0hPTUUpIHsgJGVudjpIRVJNRVNfSE9NRSB9IGVsc2UgeyAiJGVudjpMT0NBTEFQUERBVEFcaGVybWVzIiB9CiRkZXN0ID0gSm9pbi1QYXRoICRoZXJtZXNIb21lICJkZXNrdG9wLXBsdWdpbnNcY29udGV4dC1pbnNpZ2h0IgokdG1wID0gSm9pbi1QYXRoICRlbnY6VEVNUCAoImNpLSIgKyBbZ3VpZF06Ok5ld0d1aWQoKS5Ub1N0cmluZygiTiIpLlN1YnN0cmluZygwLCA4KSkKTmV3LUl0ZW0gLUl0ZW1UeXBlIERpcmVjdG9yeSAtRm9yY2UgLVBhdGggJHRtcCB8IE91dC1OdWxsCgokdXJscyA9IEAoKQppZiAoJGVudjpHSF9QUk9YWSkgeyAkdXJscyArPSAoJGVudjpHSF9QUk9YWS5UcmltRW5kKCcvJykgKyAiL2h0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS8kcmVwby8kYnJhbmNoIikgfQppZiAoJGVudjpHSF9CQVNFKSB7ICR1cmxzID0gQCgkZW52OkdIX0JBU0UpICsgJHVybHMgfQokdXJscyArPSAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLyRyZXBvLyRicmFuY2giCiR1cmxzICs9ICJodHRwczovL2Nkbi5qc2RlbGl2ci5uZXQvZ2gvJHJlcG9AJGJyYW5jaCIKCiRiYXNlID0gJG51bGwKZm9yZWFjaCAoJHUgaW4gJHVybHMpIHsKICBXcml0ZS1Ib3N0ICLCtyDlsJ3or5UgJHUiCiAgdHJ5IHsKICAgIEludm9rZS1XZWJSZXF1ZXN0IC1Vc2VCYXNpY1BhcnNpbmcgLVRpbWVvdXRTZWMgMjUgLVVyaSAiJHUvcGx1Z2luLmpzLnNoYTI1NiIgLU91dEZpbGUgKEpvaW4tUGF0aCAkdG1wICJleHBlY3QudHh0IikKICAgICRiYXNlID0gJHU7IGJyZWFrCiAgfSBjYXRjaCB7IH0KfQppZiAoLW5vdCAkYmFzZSkgewogIFdyaXRlLUhvc3QgIuaJgOacieWAmemAiea6kOmDveWPluS4jeWIsCBwbHVnaW4uanMuc2hhMjU244CC6K+35omL5Yqo5a6J6KOF77yaIiAtRm9yZWdyb3VuZENvbG9yIFllbGxvdwogIFdyaXRlLUhvc3QgIiAgMSkg5omT5byAIGh0dHBzOi8vZ2l0aHViLmNvbS8kcmVwby9yZWxlYXNlcyDkuIvovb0gcGx1Z2luLmpzIgogIFdyaXRlLUhvc3QgIiAgMikg5pS+5YiwICRkZXN0XHBsdWdpbi5qcyIKICB0aHJvdyAi5a6J6KOF5Lit5q2iIgp9CldyaXRlLUhvc3QgIsK3IOS9v+eUqOa6kCAkYmFzZSIKSW52b2tlLVdlYlJlcXVlc3QgLVVzZUJhc2ljUGFyc2luZyAtVGltZW91dFNlYyA2MCAtVXJpICIkYmFzZS9wbHVnaW4uanMiIC1PdXRGaWxlIChKb2luLVBhdGggJHRtcCAicGx1Z2luLmpzIikKCiRleHBlY3QgPSAoKEdldC1Db250ZW50IChKb2luLVBhdGggJHRtcCAiZXhwZWN0LnR4dCIpIC1SYXcpIC1zcGxpdCAnXHMrJylbMF0uVHJpbSgpCiRhY3R1YWwgPSAoR2V0LUZpbGVIYXNoIC1BbGdvcml0aG0gU0hBMjU2IChKb2luLVBhdGggJHRtcCAicGx1Z2luLmpzIikpLkhhc2guVG9Mb3dlcigpCmlmICgkYWN0dWFsIC1uZSAkZXhwZWN0LlRvTG93ZXIoKSkgewogIFJlbW92ZS1JdGVtIC1SZWN1cnNlIC1Gb3JjZSAkdG1wCiAgdGhyb3cgIuagoemqjOWksei0pe+8muacn+acmyAkZXhwZWN0IOWunuW+lyAkYWN0dWFsIOKAlOKAlCDmnKrlhpnlhaXku7vkvZXmlofku7YiCn0KV3JpdGUtSG9zdCAiwrcgc2hhMjU2IOagoemqjOmAmui/hyAkYWN0dWFsIgoKTmV3LUl0ZW0gLUl0ZW1UeXBlIERpcmVjdG9yeSAtRm9yY2UgLVBhdGggJGRlc3QgfCBPdXQtTnVsbApDb3B5LUl0ZW0gKEpvaW4tUGF0aCAkdG1wICJwbHVnaW4uanMiKSAoSm9pbi1QYXRoICRkZXN0ICJwbHVnaW4uanMiKSAtRm9yY2UKUmVtb3ZlLUl0ZW0gLVJlY3Vyc2UgLUZvcmNlICR0bXAKJHNpemUgPSAoR2V0LUl0ZW0gKEpvaW4tUGF0aCAkZGVzdCAicGx1Z2luLmpzIikpLkxlbmd0aApXcml0ZS1Ib3N0ICLCtyDlt7Llronoo4UgLT4gJGRlc3RccGx1Z2luLmpzICgkc2l6ZSDlrZfoioIpIgppZiAoR2V0LUNvbW1hbmQgbm9kZSAtRXJyb3JBY3Rpb24gU2lsZW50bHlDb250aW51ZSkgewogIG5vZGUgLS1jaGVjayAoSm9pbi1QYXRoICRkZXN0ICJwbHVnaW4uanMiKSAyPiRudWxsCiAgaWYgKCRMQVNURVhJVENPREUgLWVxIDApIHsgV3JpdGUtSG9zdCAiwrcg6K+t5rOV5qOA5p+l6YCa6L+HIiB9IGVsc2UgeyBXcml0ZS1Ib3N0ICLCtyBub2RlIC0tY2hlY2sg5pyq6YCa6L+H77yI5aSa5Y2KIE5vZGUg54mI5pys6L+H5pen77yJ77yMQXBwIOiHqui6q+S7jeS8muWKoOi9vSIgfQp9CldyaXRlLUhvc3QgIiIKV3JpdGUtSG9zdCAi5a6M5oiQ44CC5Zue5YiwIEhlcm1lcyDmoYzpnaLnq6/lh6Dnp5LlhoXoh6rliqjliqDovb3vvJvmsqHlj43lupTlsLHmjIkgQ3RybCtLIOaJp+ihjCBSZWxvYWQgZGVza3RvcCBwbHVnaW5z44CCIgpXcml0ZS1Ib3N0ICLkvqfovrnmoI/lh7rnjrDjgIzkuIrkuIvmlofmtJ7lr5/jgI3vvIzlv6vmjbfplK4gQ3RybCtTaGlmdCtD44CC5Y246L29ID0g5Yig6ZmkICRkZXN0IOebruW9leOAgiIK
+# context-insight 安装/更新（Windows PowerShell）
+#   iex (iwr -UseBasicParsing https://raw.githubusercontent.com/saqinghui-huaian/context-insight/main/install.ps1)
+#   大陆网络 raw.githubusercontent.com 常被重置，可先设镜像：
+#   $env:GH_PROXY = "https://gh-proxy.com/"; iex (iwr -UseBasicParsing ...)
+$ErrorActionPreference = "Stop"
+$repo = if ($env:REPO) { $env:REPO } else { "saqinghui-huaian/context-insight" }
+$branch = if ($env:BRANCH) { $env:BRANCH } else { "main" }
+$hermesHome = if ($env:HERMES_HOME) { $env:HERMES_HOME } else { "$env:LOCALAPPDATA\hermes" }
+$dest = Join-Path $hermesHome "desktop-plugins\context-insight"
+$tmp = Join-Path $env:TEMP ("ci-" + [guid]::NewGuid().ToString("N").Substring(0, 8))
+New-Item -ItemType Directory -Force -Path $tmp | Out-Null
+
+$urls = @()
+if ($env:GH_PROXY) { $urls += ($env:GH_PROXY.TrimEnd('/') + "/https://raw.githubusercontent.com/$repo/$branch") }
+if ($env:GH_BASE) { $urls = @($env:GH_BASE) + $urls }
+$urls += "https://raw.githubusercontent.com/$repo/$branch"
+$urls += "https://cdn.jsdelivr.net/gh/$repo@$branch"
+
+$base = $null
+foreach ($u in $urls) {
+  Write-Host "· 尝试 $u"
+  try {
+    Invoke-WebRequest -UseBasicParsing -TimeoutSec 25 -Uri "$u/plugin.js.sha256" -OutFile (Join-Path $tmp "expect.txt")
+    $base = $u; break
+  } catch { }
+}
+if (-not $base) {
+  Write-Host "所有候选源都取不到 plugin.js.sha256。请手动安装：" -ForegroundColor Yellow
+  Write-Host "  1) 打开 https://github.com/$repo/releases 下载 plugin.js"
+  Write-Host "  2) 放到 $dest\plugin.js"
+  throw "安装中止"
+}
+Write-Host "· 使用源 $base"
+Invoke-WebRequest -UseBasicParsing -TimeoutSec 60 -Uri "$base/plugin.js" -OutFile (Join-Path $tmp "plugin.js")
+
+$expect = ((Get-Content (Join-Path $tmp "expect.txt") -Raw) -split '\s+')[0].Trim()
+$actual = (Get-FileHash -Algorithm SHA256 (Join-Path $tmp "plugin.js")).Hash.ToLower()
+if ($actual -ne $expect.ToLower()) {
+  Remove-Item -Recurse -Force $tmp
+  throw "校验失败：期望 $expect 实得 $actual —— 未写入任何文件"
+}
+Write-Host "· sha256 校验通过 $actual"
+
+New-Item -ItemType Directory -Force -Path $dest | Out-Null
+Copy-Item (Join-Path $tmp "plugin.js") (Join-Path $dest "plugin.js") -Force
+Remove-Item -Recurse -Force $tmp
+$size = (Get-Item (Join-Path $dest "plugin.js")).Length
+Write-Host "· 已安装 -> $dest\plugin.js ($size 字节)"
+if (Get-Command node -ErrorAction SilentlyContinue) {
+  node --check (Join-Path $dest "plugin.js") 2>$null
+  if ($LASTEXITCODE -eq 0) { Write-Host "· 语法检查通过" } else { Write-Host "· node --check 未通过（多半 Node 版本过旧），App 自身仍会加载" }
+}
+Write-Host ""
+Write-Host "完成。回到 Hermes 桌面端几秒内自动加载；没反应就按 Ctrl+K 执行 Reload desktop plugins。"
+Write-Host "侧边栏出现「上下文洞察」，快捷键 Ctrl+Shift+C。卸载 = 删除 $dest 目录。"

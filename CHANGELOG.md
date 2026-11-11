@@ -1,1 +1,13 @@
-IyBDaGFuZ2Vsb2cKCiMjIHYxLjAuMCDigJQg6aaW5Liq5Y+v5YiG5Lqr54mI5pysCgotIOS4ieagh+etvumhteS/oeaBr+aetuaehO+8iOaAu+iniCAvIOS4iuS4i+aWhyAvIOe8lumYn++8iSsg5Y+z5L6nIENvbnRleHQg6Z2i5p2/ICsg54q25oCB5qCPIGBjdHhgIOiDtuWbiiArIOWRveS7pOmdouadvyA0IOadoSArIGBDdHJsL0NtZCtTaGlmdCtDYAotIFRva2VuIFN0YXRzIDgg5Liq6K6h6LS55YiG57G744CBVGltaW5nIFN0YXRzIDUg5q61ICsg5oC76K6h44CBQ3VycmVudCBDb250ZXh0IOWFreiJsuWghuWPoOW4puWOi+e8qemihOeVmeaWnOe6uQotIENvbnRleHQgVHJlbmQg6K+35rGC57qn5aCG5Y+g5p+x77yaYFN0ZXB8VHVybmAgw5cgYFRvdGFsfERlbHRhYO+8jOaCrOWBnOe7hOaIkOa1ruWxguOAgeeCueWHu+WbuuWumiArIOWvueavlOS4iuS4gOatpeWIhuexu+W3ruWAvCArIOacjeWKoeWVhuWunua1i+ivu+aVsOOAgeS6i+S7tuagh+WcqOafsemhtgotIENvbnRleHQgRXZlbnRz77yI5rOo5YWlL+WOi+e8qS/muIXnkIYv5qih5Z6L5YiH5o2iL+aooeW8j+S4jumAmuefpe+8ieOAgUZpbGUgQWN0aXZpdHnvvIhgK04v4oiSTmAg6KGM5Y+Y5YyW77yJ44CB5ZG95Luk5omn6KGM77yI5aKZ6ZKf6ICX5pe2ICsg5oiQ5YqfL+Wksei0pSArIOeoi+W6j+WIhuW4g++8ieOAgUNvbnRleHQgQnJvd3Nlcu+8iOmAkOadoeeci+WunumZheWGheWuue+8iQotIOa0u+WKqOeDreWKm+WbvuWbuuWumuWFqOWRqOacn++8iOi/kSAxODIg5aSp77yJ77yM5q+P5pelIFRva2VuK+aIkOacrOafsei3n+maj+aXtumXtOiMg+WbtOmAieaLqeWZqAotIOe8lumYn++8mkFnZW50IOiwseezu+i/nue6vyArIOi/kOihjOS4reiEieWGsiArIOavjyBBZ2VudCDlrp7ml7bljaEKLSDljaDnlKjml7bpl7Tnur/kuI7ov5DooYzml7bkuovku7boh6rorrDlvZXvvIhgY3R4LnN0b3JhZ2Vg77yJ77yM5pe26Ze06IyD5Zu0L+i2i+WKv+eykuW6pi/mqKHlvI/lhpnlm57lgY/lpb0KLSBgc2NyaXB0cy9yZW5kZXItY2hlY2subWpzYO+8mjQ5IOmhueaJp+ihjOWei+a4suafkyArIOaVsOaNrumdnuepuuaWreiogAotIOeVjOmdouS4rS/oi7Hoh6rpgILlupTvvJvphY3oibLljLrliIbkuLvpopggY2hyb21lIOS4juaVsOaNrui6q+S7veiJsu+8m+WwiumHjSBgcHJlZmVycy1yZWR1Y2VkLW1vdGlvbmAK
+# Changelog
+
+## v1.0.0 — 首个可分享版本
+
+- 三标签页信息架构（总览 / 上下文 / 编队）+ 右侧 Context 面板 + 状态栏 `ctx` 胶囊 + 命令面板 4 条 + `Ctrl/Cmd+Shift+C`
+- Token Stats 8 个计费分类、Timing Stats 5 段 + 总计、Current Context 六色堆叠带压缩预留斜纹
+- Context Trend 请求级堆叠柱：`Step|Turn` × `Total|Delta`，悬停组成浮层、点击固定 + 对比上一步分类差值 + 服务商实测读数、事件标在柱顶
+- Context Events（注入/压缩/清理/模型切换/模式与通知）、File Activity（`+N/−N` 行变化）、命令执行（墙钟耗时 + 成功/失败 + 程序分布）、Context Browser（逐条看实际内容）
+- 活动热力图固定全周期（近 182 天），每日 Token+成本柱跟随时间范围选择器
+- 编队：Agent 谱系连线 + 运行中脉冲 + 每 Agent 实时卡
+- 占用时间线与运行时事件自记录（`ctx.storage`），时间范围/趋势粒度/模式写回偏好
+- `scripts/render-check.mjs`：49 项执行型渲染 + 数据非空断言
+- 界面中/英自适应；配色区分主题 chrome 与数据身份色；尊重 `prefers-reduced-motion`

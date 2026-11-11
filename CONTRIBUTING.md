@@ -1,1 +1,19 @@
-IyDotKHnjK7mlrnlvI8KCi0g5o+S5Lu25pivKirljZXmlofku7YgRVNNKirvvIhgcGx1Z2luLmpzYO+8ie+8jOayoeacieaehOW7uuatpemqpO+8jOebtOaOpeaUueWug+OAggotIOaUueWujOW/hemhu+i3keS4pOS7tuS6i++8mgogIGBgYGJhc2gKICBub2RlIC0tY2hlY2sgcGx1Z2luLmpzCiAgbm9kZSBzY3JpcHRzL3JlbmRlci1jaGVjay5tanMgL3BhdGgvdG8vcGx1Z2luLmpzICAgIyDmnJ/mnJsgUkVTVUxUOiBBTExfT0sKICBgYGAKICBgcmVuZGVyLWNoZWNrYCDkvJrlloLnnJ/lrp7lvaLnirbnmoTkvJror50v5raI5oGvL+aehOaIkOaVsOaNru+8jOecn+a4suafk+avj+S4que7hOS7tu+8jOW5tuaWreiogAogIFRva2VuIDgg57G744CBVGltaW5nIDYg5q6144CB5LqL5Lu244CB5ZG95Luk6ICX5pe244CB5paH5Lu25rS75Yqo562JKirph43lu7rnu5PmnpzpnZ7nqboqKuKAlOKAlAogIOWbvuS4jeW0qeS9hueUu+epuu+8iOWtl+auteWQjeeMnOmUme+8ieS8muiiq+Wug+aKk+S9j+OAggotIOejgeebmOaPkuS7tueahCBjbGFzc05hbWUg5LiN57uP6L+HIFRhaWx3aW5kIOaehOW7uuaJq+aPj++8muS7u+aEj+WAvO+8iGBoLVsxNjZweF1g44CBYGdyaWQtY29scy1b4oCmXWDvvInjgIEKICBgaG92ZXI6YOOAgWBhbmltYXRlLSpgIOmDveS8mumdmem7mOWkseaViOOAguWwuuWvuC/popzoibLor7flhpnlhoXogZQgc3R5bGXvvIzkuqTkupLmgIHkuI7lhbPplK7luKfotbDms6jlhaXnmoQKICBgPHN0eWxlIGlkPSJjaS1jc3MiPmDvvIjlubborrDlvpflnKggYGN0eC5vbkRpc3Bvc2VgIOmHjOa4heeQhu+8ieOAggotIOminOiJsuivt+WMuuWIhioq5Li76aKYIGNocm9tZSoq77yIYC0tdWktKmDvvIzot5/pmo/mmI7mmpfvvInkuI4qKuaVsOaNrui6q+S7veiJsioq77yIYERTSC4qYO+8jE9LTENIIOWbuuWumuiJsuebuO+8ie+8jAogIOS4jeimgeaKiuS9jumlseWSjOeahCBgLS11aS0qYCDlvZPmlbDmja7ns7vliJfoibLnlKjvvIzkuZ/kuI3opoHnlKjkuI3lrZjlnKjnmoTlj5jph4/lkI3jgIIKLSDmlrDmjqXlj6PlrZfmrrXor7flhYjlnKjmnKzmnLrmoLjlrp7lho3lhpnov5vku6PnoIHvvIjlj6/nlKggYEdFVCAvYXBpL3Nlc3Npb25zP2xpbWl0PTEmb2Zmc2V0PTAmYXJjaGl2ZWQ9ZXhjbHVkZWAKICDkuYvnsbvmjqLpkojnnIvnnJ/lrp7ov5Tlm57vvInjgILms6jmhI8gYC9hcGkvc2Vzc2lvbnNgIOeahCBgbGltaXRgIOS4iumZkOaYryAxMDDvvIxgYXJjaGl2ZWRgIOWPquaOpeWPlwogIGBleGNsdWRlfG9ubHl8aW5jbHVkZWDvvIxgL21lc3NhZ2VzYCDnmoQgYG9yZGVyYCDlj6rmjqXlj5cgYG9sZGVzdHxsYXRlc3Rg44CCCg==
+# 贡献方式
+
+- 插件是**单文件 ESM**（`plugin.js`），没有构建步骤，直接改它。
+- 改完必须跑两件事：
+  ```bash
+  node --check plugin.js
+  node scripts/render-check.mjs /path/to/plugin.js   # 期望 RESULT: ALL_OK
+  ```
+  `render-check` 会喂真实形状的会话/消息/构成数据，真渲染每个组件，并断言
+  Token 8 类、Timing 6 段、事件、命令耗时、文件活动等**重建结果非空**——
+  图不崩但画空（字段名猜错）会被它抓住。
+- 磁盘插件的 className 不经过 Tailwind 构建扫描：任意值（`h-[166px]`、`grid-cols-[…]`）、
+  `hover:`、`animate-*` 都会静默失效。尺寸/颜色请写内联 style，交互态与关键帧走注入的
+  `<style id="ci-css">`（并记得在 `ctx.onDispose` 里清理）。
+- 颜色请区分**主题 chrome**（`--ui-*`，跟随明暗）与**数据身份色**（`DSH.*`，OKLCH 固定色相），
+  不要把低饱和的 `--ui-*` 当数据系列色用，也不要用不存在的变量名。
+- 新接口字段请先在本机核实再写进代码（可用 `GET /api/sessions?limit=1&offset=0&archived=exclude`
+  之类探针看真实返回）。注意 `/api/sessions` 的 `limit` 上限是 100，`archived` 只接受
+  `exclude|only|include`，`/messages` 的 `order` 只接受 `oldest|latest`。

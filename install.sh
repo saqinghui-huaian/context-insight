@@ -1,1 +1,73 @@
-IyEvdXNyL2Jpbi9lbnYgYmFzaAojIGNvbnRleHQtaW5zaWdodCDlronoo4Uv5pu05paw6ISa5pys77yIbWFjT1MgLyBMaW51eCAvIFdTTCAvIGdpdC1iYXNo77yJCiMgICBiYXNoIDwoY3VybCAtZnNTTCBodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vUkVQTy9tYWluL2luc3RhbGwuc2gpCiMgICDlpKfpmYbnvZHnu5zkuIsgcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSDluLjooqvph43nva7vvIzlj6/liqDplZzlg4/vvJoKIyAgIEdIX1BST1hZPWh0dHBzOi8vZ2gtcHJveHkuY29tLyBiYXNoIGluc3RhbGwuc2gKc2V0IC1ldW8gcGlwZWZhaWwKClJFUE89IiR7UkVQTzotc2FxaW5naHVpLWh1YWlhbi9jb250ZXh0LWluc2lnaHR9IgpCUkFOQ0g9IiR7QlJBTkNIOi1tYWlufSIKaWYgWyAteiAiJHtIRVJNRVNfSE9NRTotfSIgXTsgdGhlbgogIGNhc2UgIiQodW5hbWUgLXMgMj4vZGV2L251bGwgfHwgZWNobyBVbmtub3duKSIgaW4KICAgIE1JTkdXKnxNU1lTKnxDWUdXSU4qKSBIRVJNRVNfSE9NRT0iJChjeWdwYXRoIC11ICIke0xPQ0FMQVBQREFUQTotJEhPTUV9L2hlcm1lcyIpIiA7OwogICAgKikgSEVSTUVTX0hPTUU9IiRIT01FLy5oZXJtZXMiIDs7CiAgZXNhYwpmaQpERVNUPSIkSEVSTUVTX0hPTUUvZGVza3RvcC1wbHVnaW5zL2NvbnRleHQtaW5zaWdodCIKCiMg5Li05pe255uu5b2V77yaV2luZG93cyDkuIrnmoQgY3VybCDmmK/ljp/nlJ/nqIvluo/vvIzlhpnkuI3kuoYgTVNZUyDnmoQgL3RtcO+8jOmcgOimgSBXaW5kb3dzIOmjjuagvOi3r+W+hApjYXNlICIkKHVuYW1lIC1zIDI+L2Rldi9udWxsIHx8IGVjaG8gVW5rbm93bikiIGluCiAgTUlOR1cqfE1TWVMqfENZR1dJTiopCiAgICBUTVA9IiQoY3lncGF0aCAtbSAiJHtURU1QOi0ke1RNUERJUjotLn19IikvY29udGV4dC1pbnNpZ2h0LSQkIgogICAgbWtkaXIgLXAgIiRUTVAiCiAgICB0cmFwICdybSAtcmYgIiRUTVAiJyBFWElUIDs7CiAgKikKICAgIFRNUD0iJChta3RlbXAgLWQpIgogICAgdHJhcCAncm0gLXJmICIkVE1QIicgRVhJVCA7Owplc2FjCgpjYW5kaWRhdGVzPSgpClsgLW4gIiR7R0hfQkFTRTotfSIgXSAmJiBjYW5kaWRhdGVzKz0oIiRHSF9CQVNFIikKWyAtbiAiJHtHSF9QUk9YWTotfSIgXSAmJiBjYW5kaWRhdGVzKz0oIiR7R0hfUFJPWFklL30vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLyRSRVBPLyRCUkFOQ0giKQpjYW5kaWRhdGVzKz0oImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS8kUkVQTy8kQlJBTkNIIikKY2FuZGlkYXRlcys9KCJodHRwczovL2Nkbi5qc2RlbGl2ci5uZXQvZ2gvJFJFUE9AJEJSQU5DSCIpClsgLW4gIiR7R0hfTUlSUk9SOi19IiBdICYmIGNhbmRpZGF0ZXMrPSgiJHtHSF9NSVJST1IlL30vJFJFUE8vJEJSQU5DSCIpCgpCQVNFPSIiCmZvciBiIGluICIke2NhbmRpZGF0ZXNbQF19IjsgZG8KICBwcmludGYgJ8K3IOWwneivlSAlc1xuJyAiJGIiCiAgaWYgY3VybCAtZnNTTCAtLWNvbm5lY3QtdGltZW91dCA4IC0tbWF4LXRpbWUgMzAgIiRiL3BsdWdpbi5qcy5zaGEyNTYiIC1vICIkVE1QL2V4cGVjdCIgMj4vZGV2L251bGw7IHRoZW4gQkFTRT0iJGIiOyBicmVhazsgZmkKZG9uZQppZiBbIC16ICIkQkFTRSIgXTsgdGhlbgogIGVjaG8gIuaJgOacieWAmemAiea6kOmDveWPluS4jeWIsCBwbHVnaW4uanMuc2hhMjU244CC6K+35omL5Yqo5a6J6KOF77yaIgogIGVjaG8gIiAgMSkg5rWP6KeI5Zmo5omT5byAIGh0dHBzOi8vZ2l0aHViLmNvbS8kUkVQTy9yZWxlYXNlcyDkuIvovb0gcGx1Z2luLmpzIgogIGVjaG8gIiAgMikg5pS+5YiwICRERVNUL3BsdWdpbi5qcyIKICBlY2hvICIgIOWkp+mZhue9kee7nOWPr+WKoOmVnOWDj+mHjeivle+8mkdIX1BST1hZPWh0dHBzOi8vZ2gtcHJveHkuY29tLyBiYXNoIGluc3RhbGwuc2giCiAgZXhpdCAxCmZpCmVjaG8gIsK3IOS9v+eUqOa6kCAkQkFTRSIKY3VybCAtZnNTTCAtLW1heC10aW1lIDYwICIkQkFTRS9wbHVnaW4uanMiIC1vICIkVE1QL3BsdWdpbi5qcyIKCkVYUEVDVD0iJChhd2sgJ3twcmludCAkMX0nICIkVE1QL2V4cGVjdCIgfCB0ciAtZCAnWzpzcGFjZTpdJykiCmlmIGNvbW1hbmQgLXYgc2hhMjU2c3VtID4vZGV2L251bGwgMj4mMTsgdGhlbiBBQ1RVQUw9IiQoc2hhMjU2c3VtICIkVE1QL3BsdWdpbi5qcyIgfCBhd2sgJ3twcmludCAkMX0nKSIKZWxpZiBjb21tYW5kIC12IHNoYXN1bSA+L2Rldi9udWxsIDI+JjE7IHRoZW4gQUNUVUFMPSIkKHNoYXN1bSAtYSAyNTYgIiRUTVAvcGx1Z2luLmpzIiB8IGF3ayAne3ByaW50ICQxfScpIgplbHNlIGVjaG8gIsK3IOaXoCBzaGEyNTYg5bel5YW377yM6Lez6L+H5qCh6aqMIjsgQUNUVUFMPSIkRVhQRUNUIjsgZmkKaWYgWyAiJEFDVFVBTCIgIT0gIiRFWFBFQ1QiIF07IHRoZW4KICBlY2hvICLmoKHpqozlpLHotKXvvJrmnJ/mnJsgJEVYUEVDVCDlrp7lvpcgJEFDVFVBTCDigJTigJQg5bey5Lit5q2i77yM5pyq5YaZ5YWl5Lu75L2V5paH5Lu2IgogIGV4aXQgMQpmaQplY2hvICLCtyBzaGEyNTYg5qCh6aqM6YCa6L+HICRBQ1RVQUwiCgpta2RpciAtcCAiJERFU1QiCmNwICIkVE1QL3BsdWdpbi5qcyIgIiRERVNUL3BsdWdpbi5qcyIKZWNobyAiwrcg5bey5a6J6KOFIC0+ICRERVNUL3BsdWdpbi5qcyAoJCh3YyAtYyA8ICIkREVTVC9wbHVnaW4uanMiIHwgdHIgLWQgJyAnKSDlrZfoioIpIgppZiBjb21tYW5kIC12IG5vZGUgPi9kZXYvbnVsbCAyPiYxOyB0aGVuCiAgTlBBVEg9IiRERVNUL3BsdWdpbi5qcyIKICBjYXNlICIkKHVuYW1lIC1zIDI+L2Rldi9udWxsIHx8IGVjaG8gVW5rbm93bikiIGluCiAgICBNSU5HVyp8TVNZUyp8Q1lHV0lOKikgTlBBVEg9IiQoY3lncGF0aCAtdyAiJE5QQVRIIikiIDs7CiAgZXNhYwogIGlmIG5vZGUgLS1jaGVjayAiJE5QQVRIIiAyPi9kZXYvbnVsbDsgdGhlbiBlY2hvICLCtyDor63ms5Xmo4Dmn6XpgJrov4ciOyBlbHNlIGVjaG8gIsK3IOivreazleajgOafpeacqumAmui/h++8iOivt+aguOWvueS4i+i9veWujOaVtOaAp+aIliBOb2RlIOeJiOacrO+8iSI7IGZpCmZpCmVjaG8KZWNobyAi5a6M5oiQ44CC5Zue5YiwIEhlcm1lcyDmoYzpnaLnq6/lh6Dnp5LlhoXoh6rliqjliqDovb3vvJvmsqHlj43lupTlsLEgQ3RybCtLIOKGkiBSZWxvYWQgZGVza3RvcCBwbHVnaW5z44CCIgplY2hvICLkvqfovrnmoI/lh7rnjrDjgIzkuIrkuIvmlofmtJ7lr5/jgI3vvIzlv6vmjbfplK4gQ3RybC9DbWQrU2hpZnQrQ+OAguWNuOi9vSA9IOWIoOmZpCAkREVTVCDnm67lvZXjgIIiCg==
+#!/usr/bin/env bash
+# context-insight 安装/更新脚本（macOS / Linux / WSL / git-bash）
+#   bash <(curl -fsSL https://raw.githubusercontent.com/REPO/main/install.sh)
+#   大陆网络下 raw.githubusercontent.com 常被重置，可加镜像：
+#   GH_PROXY=https://gh-proxy.com/ bash install.sh
+set -euo pipefail
+
+REPO="${REPO:-saqinghui-huaian/context-insight}"
+BRANCH="${BRANCH:-main}"
+if [ -z "${HERMES_HOME:-}" ]; then
+  case "$(uname -s 2>/dev/null || echo Unknown)" in
+    MINGW*|MSYS*|CYGWIN*) HERMES_HOME="$(cygpath -u "${LOCALAPPDATA:-$HOME}/hermes")" ;;
+    *) HERMES_HOME="$HOME/.hermes" ;;
+  esac
+fi
+DEST="$HERMES_HOME/desktop-plugins/context-insight"
+
+# 临时目录：Windows 上的 curl 是原生程序，写不了 MSYS 的 /tmp，需要 Windows 风格路径
+case "$(uname -s 2>/dev/null || echo Unknown)" in
+  MINGW*|MSYS*|CYGWIN*)
+    TMP="$(cygpath -m "${TEMP:-${TMPDIR:-.}}")/context-insight-$$"
+    mkdir -p "$TMP"
+    trap 'rm -rf "$TMP"' EXIT ;;
+  *)
+    TMP="$(mktemp -d)"
+    trap 'rm -rf "$TMP"' EXIT ;;
+esac
+
+candidates=()
+[ -n "${GH_BASE:-}" ] && candidates+=("$GH_BASE")
+[ -n "${GH_PROXY:-}" ] && candidates+=("${GH_PROXY%/}/https://raw.githubusercontent.com/$REPO/$BRANCH")
+candidates+=("https://raw.githubusercontent.com/$REPO/$BRANCH")
+candidates+=("https://cdn.jsdelivr.net/gh/$REPO@$BRANCH")
+[ -n "${GH_MIRROR:-}" ] && candidates+=("${GH_MIRROR%/}/$REPO/$BRANCH")
+
+BASE=""
+for b in "${candidates[@]}"; do
+  printf '· 尝试 %s\n' "$b"
+  if curl -fsSL --connect-timeout 8 --max-time 30 "$b/plugin.js.sha256" -o "$TMP/expect" 2>/dev/null; then BASE="$b"; break; fi
+done
+if [ -z "$BASE" ]; then
+  echo "所有候选源都取不到 plugin.js.sha256。请手动安装："
+  echo "  1) 浏览器打开 https://github.com/$REPO/releases 下载 plugin.js"
+  echo "  2) 放到 $DEST/plugin.js"
+  echo "  大陆网络可加镜像重试：GH_PROXY=https://gh-proxy.com/ bash install.sh"
+  exit 1
+fi
+echo "· 使用源 $BASE"
+curl -fsSL --max-time 60 "$BASE/plugin.js" -o "$TMP/plugin.js"
+
+EXPECT="$(awk '{print $1}' "$TMP/expect" | tr -d '[:space:]')"
+if command -v sha256sum >/dev/null 2>&1; then ACTUAL="$(sha256sum "$TMP/plugin.js" | awk '{print $1}')"
+elif command -v shasum >/dev/null 2>&1; then ACTUAL="$(shasum -a 256 "$TMP/plugin.js" | awk '{print $1}')"
+else echo "· 无 sha256 工具，跳过校验"; ACTUAL="$EXPECT"; fi
+if [ "$ACTUAL" != "$EXPECT" ]; then
+  echo "校验失败：期望 $EXPECT 实得 $ACTUAL —— 已中止，未写入任何文件"
+  exit 1
+fi
+echo "· sha256 校验通过 $ACTUAL"
+
+mkdir -p "$DEST"
+cp "$TMP/plugin.js" "$DEST/plugin.js"
+echo "· 已安装 -> $DEST/plugin.js ($(wc -c < "$DEST/plugin.js" | tr -d ' ') 字节)"
+if command -v node >/dev/null 2>&1; then
+  NPATH="$DEST/plugin.js"
+  case "$(uname -s 2>/dev/null || echo Unknown)" in
+    MINGW*|MSYS*|CYGWIN*) NPATH="$(cygpath -w "$NPATH")" ;;
+  esac
+  if node --check "$NPATH" 2>/dev/null; then echo "· 语法检查通过"; else echo "· 语法检查未通过（请核对下载完整性或 Node 版本）"; fi
+fi
+echo
+echo "完成。回到 Hermes 桌面端几秒内自动加载；没反应就 Ctrl+K → Reload desktop plugins。"
+echo "侧边栏出现「上下文洞察」，快捷键 Ctrl/Cmd+Shift+C。卸载 = 删除 $DEST 目录。"
